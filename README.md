@@ -1300,11 +1300,7 @@ Realizar os ajustes finais, otimizar performance, revisar toda a aplicação e p
 
 ---
 
-### 🎯 Conclusão:
-
----
-
-## ✅ Conclusão do Ciclo de Sprints
+### ✅ Conclusão do Ciclo de Sprints
 
 Desenvolver o BoraJoin foi um processo intenso e desafiador. Cada sprint exigiu dedicação, colaboração multidisciplinar e atenção aos mínimos detalhes — afinal, criar uma plataforma completa, segura e acessível para celebrações não é tarefa simples.
 
